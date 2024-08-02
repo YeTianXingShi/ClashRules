@@ -1,7 +1,6 @@
 DOMAIN-SUFFIX,mm.mooguu.xyz
 DOMAIN-SUFFIX,bx.mooguu.to
 IP-CIDR,198.23.165.236/32,no-resolve
-DOMAIN-SUFFIX,btschool.club
 IP-CIDR,77.37.33.136/32,no-resolve
 IP-CIDR,204.10.194.78/32,no-resolve
 IP-CIDR,188.42.145.72/32,no-resolve
